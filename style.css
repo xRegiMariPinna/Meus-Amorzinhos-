@@ -1,0 +1,19 @@
+#fundo{
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color:rgb(81, 214, 174);
+    font-size: 25px;
+    font-family: fantasy;
+}
+#myCanvas{
+    background-color: khaki;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: pink;
+    border-radius:10px;
+}
+img{
+    width:300px;
+}
